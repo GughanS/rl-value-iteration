@@ -48,8 +48,8 @@ The algorithm is as follows:
 
 ## VALUE ITERATION FUNCTION
 
-### Name: MUKESH R
-### Register Number: 212223240100
+### Name: GUGHAN S
+### Register Number: 212223240043
 ### Include the value iteration function
 ```
 envdesc  = ['FSFH','HFFH','HFGF', 'FFFH']
